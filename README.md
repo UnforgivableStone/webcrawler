@@ -6,6 +6,7 @@ Python3
 bs4
 requests
 
-1.cd 
-2. pip install -r reuqirments.txt
-3. 
+1.git clone https://github.com/UnforgivableStone/webcrawler.git
+2.cd webcrawler
+3. pip install -r requirements.txt 
+
